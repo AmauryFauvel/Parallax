@@ -17,9 +17,6 @@ C'est un des effets qui nous permet de percevoir la 3D (avec la stéréoscopie, 
 ## Caméra :
 Pour que l'effet fonctionne, la caméra doit utiliser un frustum asymétrique, afin de regarder toujours la même fenêtre quelque soit sa position.
 
-## A faire :
-Reconnaissance de lettres (OCR).
-
 ## Références
 [Calculating Stereo Pairs par Paul Bourke Juillet 1999](http://paulbourke.net/stereographics/stereorender/)
 
